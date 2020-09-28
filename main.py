@@ -7,7 +7,7 @@ pygame.init()
 
 size = (cfg.window_size_x, cfg.window_size_y)
 screen = pygame.display.set_mode(size)
-pygame.display.set_caption('Balls')
+pygame.display.set_caption('Balls | by NuoKey')
 
 clock = pygame.time.Clock()
 done = False
